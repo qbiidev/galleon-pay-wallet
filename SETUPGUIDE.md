@@ -31,7 +31,6 @@ Requirements
   - During installation select "Add LLVM to the PATH for all users/current user"
   - If you encountered this error (set LIBCLANG_PATH in windows env variables)
   ```bash
-  # Install the Chocolatey
   > npm ERR!   thread 'main' panicked at 'Unable to find libclang: "couldn't find any valid shared libraries matching: ['clang.dll', 'libclang.dll'], set the `LIBCLANG_PATH` environment variable to a path where one of these files can be found (invalid: [])"', C:\Users\New User\.cargo\registry\src\github.com-1ecc6299db9ec823\bindgen-0.64.0\./lib.rs:2393:31
   ```
 - Now install the iota wallet package, you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
