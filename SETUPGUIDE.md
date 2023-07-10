@@ -18,7 +18,7 @@ Requirements
 
 - Download and Install [Rust] (https://www.rust-lang.org/tools/install)
 
-- Install the Chocolatey and Packages (run on Administrator mode)
+- Install the Chocolatey and Packages (run Command Terminal/Powershell on Administrator mode)
 
 ```bash
 # Install the Chocolatey
